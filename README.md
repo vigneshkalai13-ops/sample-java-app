@@ -1,4 +1,4 @@
-# Java Programmings Overview
+# Java Programming Overview
 
 ## 📌 What is Java Programming?
 
